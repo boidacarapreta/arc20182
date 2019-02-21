@@ -102,3 +102,23 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+=======
+# MacOS
+.DS_Store
+
+# Vim
+*.sw*
+
+# Visual Studio Code
+.vscode/
+
+# Python3
+venv
+.venv
+__pycache__/
+
+# Errbot
+config.py
+errbot.log
+data/
+*.gif
